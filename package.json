@@ -1,5 +1,24 @@
 {
-    "name": "hexo-generator-counts",
-    "version": "0.0.1",
-    "main": "index"
+  "name": "hexo-generator-counts",
+  "version": "0.0.1",
+  "description": "generator content of hexo post",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamcco/hexo-generator-counts.git"
+  },
+  "keywords": [
+    "hexo",
+    "post",
+    "search"
+  ],
+  "author": "年糕小豆汤",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamcco/hexo-generator-counts/issues"
+  },
+  "homepage": "https://github.com/iamcco/hexo-generator-counts#readme"
 }
